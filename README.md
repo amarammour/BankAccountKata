@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/amarammour/BankAccountKata.svg?branch=master)](https://travis-ci.org/amarammour/BankAccountKata)
 # Bank account kata
 Think of your personal bank account experience When in doubt, go for the simplest solution
 

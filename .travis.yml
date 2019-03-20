@@ -1,0 +1,10 @@
+language: csharp
+solution: BackEnd/BackAccountApi.sln
+mono: none
+dist: xenial
+dotnet: 2.2
+sudo: false
+script:
+  - dotnet restore BackEnd/BackAccountApi.sln
+  - dotnet build BackEnd/BackAccountApi.sln
+  - dotnet test BackEnd/BackAccountApi.Tests/BackAccountApi.Tests.csproj
