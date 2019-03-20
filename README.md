@@ -22,3 +22,7 @@ Think of your personal bank account experience When in doubt, go for the simples
 **In order to** check my operations  
 **As a** bank client  
 **I want to** see the history (operation, date, amount, balance)  of my operations
+
+# Implementation
+##### Framework:
+.Net Core / EntityFramework / InMemory database
